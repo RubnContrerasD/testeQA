@@ -7,6 +7,15 @@ A finalidade deste projeto foi criar uma série de passos automatizados com a li
 
 Foi meu primeiro contato com a linguagem <b>Ruby</b>, assim como outras bibliotecas (capybara, cucumber, selenium, etc). Foi uma otima experiência de apredizado que com certeza deixará marcado esse começo de jornada profissional na area de QA.<br>
 
+-------------------------
+
+* Para quem esta no windows download 'cmder' e recomendo fortemente criar a pasta do projeto a partir do 'C:'
+* gem install bundler
+* bundle init
+* No arquivo 'Gemfile' vamos colocar as nossas gemas para o projeto --> gem 'capybara', gem 'cucumber', gem 'rspec', gem          'selenium-webdriver'
+* bundle install
+* cucumber --init
+
 
 -------------------------
 ## Tecnologias utilizadas<br>
